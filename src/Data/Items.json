@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Burger",
+        "price": 10,
+        "img": "/Assets/burger.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Pizza",
+        "price": 12,
+        "img": "/Assets/pizza.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Burrito",
+        "price": 17,
+        "img": "/Assets/burrito.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tortilla",
+        "price": 7,
+        "img": "/Assets/Tortilla.jpg"
+    }
+]
